@@ -1,7 +1,7 @@
 # yitiao
 Code for extracting and analyzing classifier-noun pairs from a Mandarin Chinese corpus
 
-The raw data (SogouCS, 2008 version) is from Sogou Labs accessible via https://www.sogou.com/labs/resource/cs.php (Look for the 2008 version). 
+The raw data (SogouCS, 2008 version) is from Sogou Labs accessible via https://www.sogou.com/labs/resource/cs.php (Look for the 2008 version). The processed data and analysis code are available at https://osf.io/8zwrm/. 
 
 The pipeline follows the order specified below. Some code are wrapped in a bash script. You may need to modify the input and output folders for your specific folder structure. 
 
